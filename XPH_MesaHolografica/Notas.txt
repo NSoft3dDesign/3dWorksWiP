@@ -1,6 +1,0 @@
-Tamaños mapas:
---MainMetallic-> 2k
---SecondaryMetallic-> 1k
---Holograms-> 2k
---HoloProjectors-> 1k
---details-> .5k
